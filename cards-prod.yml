@@ -1,0 +1,11 @@
+build:
+  version: "3.0"
+
+cards:
+  message: "Welcome to EziBank Cards Prod API"
+  contactDetails:
+    name: "ezibank"
+    email: "ezibank@gmail.com"
+  onCallSupport:
+    - 9876543210
+

@@ -1,0 +1,11 @@
+build:
+  version: "1.0"
+
+cards:
+  message: "Welcome to EazyBank Card API Details"
+  contactDetails:
+    name: "R.Christian Sugantharaj"
+    email: "christiansugantharaj@gmail.com"
+  onCallSupport:
+    - 7598272280
+    - 9344254678

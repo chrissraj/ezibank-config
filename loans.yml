@@ -1,0 +1,11 @@
+build:
+  version: "1.0"
+
+loans:
+  message: "Welcome to EazyBank Loans API Details"
+  contactDetails:
+    name: "R.Christian Sugantharaj"
+    email: "christiansugantharaj@gmail.com"
+  onCallSupport:
+    - 7598272280
+    - 9344254678
