@@ -2,7 +2,7 @@ build:
   version: "2.0"
 
 accounts:
-  message: "Welcome to EazyBank Account QA API Details"
+  message: "Welcome to EziBank Account QA API Details"
   contactDetails:
     name: "John Smith"
     email: "johnsmith@ezibank.com"
