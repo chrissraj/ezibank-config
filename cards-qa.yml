@@ -4,7 +4,7 @@ build:
 cards:
   message: "Welcome to EziBank Cards QA API Details"
   contactDetails:
-    name: "John Smith"
+    name: "John Will Smith"
     email: "johnsmith@ezibank.com"
   onCallSupport:
     - 3467890124
