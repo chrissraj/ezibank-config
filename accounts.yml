@@ -2,7 +2,7 @@ build:
   version: "1.0"
 
 accounts:
-  message: "Welcome to EazyBank Account API Details"
+  message: "{cipher}58b2d491ccedd26b31a3f0d4d5c2d8f33f39f5176b3d7fb9e9f4f052d39961b1622b031b275ce63533b9a66be820f7916b2884ce35d109a911b0b6e4b512f932"
   contactDetails:
     name: "R.Christian Sugantharaj"
     email: "{cipher}a9fb06239c5d0aedb9fef71b0842673b6ac3dcc3e0131f282f94513ff400b9bb8f5babb8b15cda6865cb6527558f90ea"
