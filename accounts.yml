@@ -5,7 +5,8 @@ accounts:
   message: "Welcome to EazyBank Account API Details"
   contactDetails:
     name: "R.Christian Sugantharaj"
-    email: "christiansugantharaj@gmail.com"
+    email: "{cipher}5a6b83c4642bb25a2511e708a5f640439bc7b4570aa981ed31c32dd6df70d914e62ab3e45e9c29ac37447eff605c4c29
+"
   onCallSupport:
     - 7598272280
     - 9344254678
