@@ -2,9 +2,9 @@ build:
   version: "2.0"
 
 loans:
-  message: "Welcome to EazyBank Loans QA API Details"
+  message: "Welcome to EaziBank Loans QA API Details"
   contactDetails:
-    name: "John Smith"
-    email: "johnsmith@ezibank.com"
+    name: "Will Smith"
+    email: "willsmith@ezibank.com"
   onCallSupport:
-    - 6895473210
+    - 68954733210
