@@ -2,9 +2,9 @@ build:
   version: "2.0"
 
 cards:
-  message: "Welcome to EazyBank Cards QA API Details"
+  message: "Welcome to EziBank Cards QA API Details"
   contactDetails:
     name: "John Smith"
     email: "johnsmith@ezibank.com"
   onCallSupport:
-    - 6895473210
+    - 4567893210
