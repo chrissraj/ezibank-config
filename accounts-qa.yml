@@ -4,7 +4,7 @@ build:
 accounts:
   message: "Welcome to EziBank Account QA API Details"
   contactDetails:
-    name: "Will Smith John"
+    name: "Will John Smith"
     email: "johnwillsmith@ezibank.com"
   onCallSupport:
     - 6895473210
