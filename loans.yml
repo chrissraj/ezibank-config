@@ -2,7 +2,7 @@ build:
   version: "1.0"
 
 loans:
-  message: "Welcome to EazyBank Loans API Details"
+  message: "Welcome to EazyBank Loans Dev API Details"
   contactDetails:
     name: "R.Christian Sugantharaj"
     email: "christiansugantharaj@gmail.com"
