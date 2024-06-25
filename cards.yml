@@ -2,7 +2,7 @@ build:
   version: "1.0"
 
 cards:
-  message: "Welcome to EazyBank Card API Details"
+  message: "Welcome to EazyBank Cards Dev API Details"
   contactDetails:
     name: "R.Christian Sugantharaj"
     email: "christiansugantharaj@gmail.com"
