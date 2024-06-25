@@ -5,6 +5,6 @@ cards:
   message: "Welcome to EziBank Cards QA API Details"
   contactDetails:
     name: "John Will Smith"
-    email: "jws@ezibank.com"
+    email: "ezibankqa@gmail.com"
   onCallSupport:
     - 3467890124
