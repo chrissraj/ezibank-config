@@ -5,6 +5,6 @@ loans:
   message: "Welcome to EaziBank Loans QA API Details"
   contactDetails:
     name: "Will John Smith"
-    email: "jws@ezibank.com"
+    email: "ezibankqa@gmail.com"
   onCallSupport:
     - 68954733210
